@@ -1,0 +1,58 @@
+
+ body {
+  background-image:url(./img/fondo-grunge-textura-pared-ladrillo-marron-esquinas-vineta_35329-55.jpg);
+   /* background-position: right bottom; */
+   background-size: cover;
+  /* background-repeat: no-repeat; */
+}
+
+.menu{
+color: white;
+  list-style: none;
+  line-height: 42px;
+  margin-left: 2em auto;
+  padding-left: 0;
+  width: 15em;
+}
+
+.menu{
+
+
+}
+
+img{
+float: right;
+ position: relative; */
+width: 180px;
+height: 180px;
+position: absolute;
+top: 15%;
+left: 15%;
+border-radius: 40%;
+/* margin-top: -75px;
+margin-left: -75px; */
+
+}
+
+.presentation{
+     width: 550px;
+     height: 550px;
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     margin-top: -75px;
+     margin-left: -75px;
+font-size: 100%;
+font-family: Arial, Helvetica, Sans-serif;
+  color: white;
+
+  font-size: 33px;
+}
+
+
+nav{
+  background-color: rgba(34, 33, 33 );
+  position: absolute;
+  /* left: -15em; */
+  height: 100%;
+}
